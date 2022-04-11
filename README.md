@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>TicTacToe (X-O-X) App</td>
-      <td><a href="https://github.com/Meltem-Karaagac/JS_RestaurantMenu" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/python-application/tree/master/01-TicTacToe" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td><img src="01-TicTacToe/tictactoe.png" alt="tictactoe" height=150></td>
     </tr>
