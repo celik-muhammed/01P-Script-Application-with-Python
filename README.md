@@ -1,15 +1,14 @@
-<p align="center">  <h1 align="center">Index of Python Application Projects</h1>  </p>
+# Index of Python Application Projects
 
-<table style="width:100%">
-  <thead style="text-align:left">
+<table>
+  <thead>
     <tr>
         <th>Project Name</th>  
         <th>Repo Link</th> 
         <th>App Link</th>  
         <th>Overview</th>
     </tr>
-  </thead>
-  
+  </thead>  
   <tbody>
     <tr>
       <td><a href="01- TicTacToe (X-O-X) App" target="_blank">TicTacToe (X-O-X) App</a></td>
