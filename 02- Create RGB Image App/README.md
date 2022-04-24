@@ -1,3 +1,3 @@
 ![Picture of the Project][image]
 
-[image]: /01-%20Create%20RGB%20Image/RGB_Image.jpg
+[image]: /02- Create RGB Image App/RGB_Image.jpg
