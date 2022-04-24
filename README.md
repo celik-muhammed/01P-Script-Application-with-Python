@@ -12,10 +12,16 @@
   
   <tbody>
     <tr>
-      <td>TicTacToe (X-O-X) App</td>
-      <td><a href="https://github.com/celik-muhammed/python-application/tree/master/01-TicTacToe" target="_blank">Repo details</a></td>
+      <td><a href="01- TicTacToe (X-O-X) App" target="_blank">TicTacToe (X-O-X) App</a></td>
+      <td><a href="01- TicTacToe (X-O-X) App" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="01-TicTacToe/tictactoe.png" alt="tictactoe" height=150></td>
+      <td><img src="/01- TicTacToe (X-O-X) App/tictactoe.png" alt="tictactoe" height=150></td>
+    </tr>
+    <tr>
+      <td><a href="02- Create RGB Image App" target="_blank">02- Create RGB Image App</a></td>
+      <td><a href="02- Create RGB Image App" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="/02- Create RGB Image App/RGB_Image.jpg" alt="tictactoe" height=150></td>
     </tr>
   </tbody>
 </table>
