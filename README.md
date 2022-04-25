@@ -26,7 +26,7 @@
       <td><a href="03- Create RGB Image App" target="_blank">03- Create RGB Image App</a></td>
       <td><a href="03- Create RGB Image App" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="/03- Create RGB Image App/RGB_Image.jpg" alt="03- Create RGB Image App" height=39></td>
+      <td><img src="/03- Create RGB Image App/Create-RGB-Image-MuCe.jpg" alt="03- Create RGB Image App" height=39></td>
     </tr>
   </tbody>
 </table> 
