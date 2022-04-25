@@ -29,4 +29,4 @@
       <td><img src="/03- Create RGB Image App/RGB_Image.jpg" alt="03- Create RGB Image App" height=39></td>
     </tr>
   </tbody>
-</table>
+</table> 
