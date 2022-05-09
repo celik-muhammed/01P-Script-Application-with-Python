@@ -2,34 +2,21 @@
 # step-1 Define Python Library
 import numpy as np
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 import scitools.sound
 
 # step-2 Define Function for Generate Note
 # Generate Note Tones
 def noteGenerator(frequency=440, length=0.2, amplitude=1, sample_rate=44100):
-    '''
-    # Signal Formula -data- f(t) = A*sin(2*π*f*t+ϕ) or f(t) = A*sin(ω*t+ϕ)
-    # signal basic settings - sound may vary by device type
-    base_tone_freq = 440    # hertz (Hz) - 0.44kHz (Sound Frequency(Hz)) - Note A4(La4)
-    base_duration = .2      # (Basic Duration Unit in Seconds) or length = 0.2
-    sampleRate = 44100      # Samples Per Second Hz - 44.1kHz (Sample Rate)
-    samples = base_duration*sampleRate  #
-    
-    # Produces a t second Audio-File
-    t = np.linspace(0, time, time*sampleRate)  # timepoints
-    A = np.iinfo(np.int16).max  # Volume (Amplitude) - the volume measure (max is 32768) or the Peak Value
-    '''
     timepoints = np.linspace(0, length, int(length*sample_rate))
     data = amplitude*np.sin(2*np.pi*frequency*timepoints)  # A*sin(2*π*f*t)
     return data
 
-# step-3 Define Suitable Note Letter and Frequency for Process
+# step-3 Define Note letters and Frequencies via 'ScaleFreqs.csv' for Using
 df = pd.read_csv('ScaleFreqs.csv', decimal =',')
-print(df)
 
 # step-4 Define Samle Composition Sheet
+# Syntax for two notes: '''Note-time(Space)Note-time'''
 composition_letters = """
 G3-0.4 G3-0.4 A3-0.8 G3-0.8 C4-0.7 B3-1.5 
 G3-0.4 G3-0.4 A3-0.8 G3-0.8 D4-0.7 C4-1.4 
@@ -64,9 +51,9 @@ tones_wave_stereo = np.vstack((tones_wave, tones_wave))
 tones_wave_stereo = tones_wave_stereo.transpose()
 
 # step-9 Save to Local Folder
-scitools.sound.write(data=tones_wave_stereo, filename="HapyBirthday-DoReMi-MuCe.wav", sample_rate=44100)
+scitools.sound.write(data=tones_wave_stereo, filename="Hapy-Birthday-DoReMi-Python-MuCe.wav", sample_rate=44100)
 
-# tones_wave_stereo features
+# step-10 Analyze tones_wave_stereo features
 print(len(tones_wave_stereo))
 print(np.max(tones_wave_stereo))
 print(np.min(tones_wave_stereo))
