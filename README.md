@@ -16,20 +16,20 @@
   <tbody>
     <tr>
       <td><a href="01-TicTacToe-(X-O-X)-App" target="_blank">01-TicTacToe-(X-O-X)-App</a></td>
-      <td><a href="01-TicTacToe-(X-O-X)-App" target="_blank">Repo details</a></td>
-      <td><a href="^#" target="_blank">App details</a></td>
+      <td><a href="01-TicTacToe-(X-O-X)-App" target="_blank">Repo Details</a></td>
+      <td><a href="^#" target="_blank">App Download</a></td>
       <td><img src="/01-TicTacToe-(X-O-X)-App/tictactoe.png" alt="01-TicTacToe-(X-O-X)-App" height=79></td>
     </tr>
     <tr>
       <td><a href="02-Generator-RGB-Image-App" target="_blank">02-Generator-RGB-Image-App</a></td>
-      <td><a href="02-Generator-RGB-Image-App" target="_blank">Repo details</a></td>
-      <td><a href="https://github.com/celik-muhammed/09-Python-Application-Projects/raw/master/02-Generator-RGB-Image-App/Create-RGB-Image-MuCe.zip" target="_blank">App details</a></td>
+      <td><a href="02-Generator-RGB-Image-App" target="_blank">Repo Details</a></td>
+      <td><a href="https://github.com/celik-muhammed/09-Python-Application-Projects/raw/master/02-Generator-RGB-Image-App/Create-RGB-Image-MuCe.zip" target="_blank">App Download</a></td>
       <td><img src="/02-Generator-RGB-Image-App/RGB_Image.jpg" alt="02-Generator-RGB-Image-App" height=39></td>
     </tr>
     <tr>
       <td><a href="03-Generator-DoReMi-Sound-Wave" target="_blank">03-Generator-DoReMi-Sound-Wave</a></td>
-      <td><a href="03-Generator-DoReMi-Sound-Wave" target="_blank">Repo details</a></td>
-      <td><a href="^#" target="_blank">App details</a></td>
+      <td><a href="03-Generator-DoReMi-Sound-Wave" target="_blank">Repo Details</a></td>
+      <td><a href="^#" target="_blank">App Download</a></td>
       <td><img src="/03-Generator-DoReMi-Sound-Wave/Create-RGB-Image-MuCe.jpg" alt="03-Generator-DoReMi-Sound-Wave" height=61></td>
     </tr>
   </tbody>
