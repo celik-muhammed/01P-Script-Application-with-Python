@@ -1,4 +1,4 @@
-# Index of Python Application Projects
+### [Go to Home Page](https://github.com/celik-muhammed)
 
 <table>
   <thead>
@@ -8,10 +8,6 @@
         <th>App Link</th>  
         <th>Overview</th>
     </tr>
-    <tr>
-      <td colspan="4"  align="center"><a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs" target="_blank">
-        Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs</a></td>
-    </tr>
   </thead>  
   <tbody>
     <tr>
